@@ -1,0 +1,28 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
+.btn-Layout{
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    ;
+}
+button{
+    padding: 10px 20px;
+}
+.card {
+    border: 1px solid #ccc;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 6px;
+  }
