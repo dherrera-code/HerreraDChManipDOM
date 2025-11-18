@@ -7,4 +7,4 @@
  // In this webpage, I created multiple elements into the HTML file and used Javascript to manipulate the content of those elements
 
 // Person who Peer Reviewed your assignment
-Peer Review:  
+Peer Review:  Vanessa Acuna - The assignment is complete, Daniel had all 10 buttons and they were functional. 
